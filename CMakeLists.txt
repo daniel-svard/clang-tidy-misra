@@ -9,6 +9,8 @@ add_clang_library(clangTidyMISRAModule
   src/RuleHeadlineTexts.h
   src/rules/c2012/17.1.cpp
   src/rules/c2012/17.1.h
+  src/rules/c2012/15.7.cpp
+  src/rules/c2012/15.7.h
   src/rules/c2012/6.2.cpp
   src/rules/c2012/6.2.h
   src/rules/cpp2008/2-13-3.cpp
